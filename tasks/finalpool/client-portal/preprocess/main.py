@@ -1,4 +1,2 @@
-# This script is optional
-
-def preprocess():
-    pass
+# Preprocessing script
+print('Preprocessing completed')
